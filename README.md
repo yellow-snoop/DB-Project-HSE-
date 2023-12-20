@@ -22,6 +22,8 @@ User: `kujyshbv`
 
 Connection string: `'postgresql://kujyshbv:sIM0DO3AXoak5VnzZoqe7W4uF64Ukx1m@cornelius.db.elephantsql.com/kujyshbv'`
 
+VS Code Extension for DB Mangement: `cweijan.vscode-postgresql-client2`
+
 
 
 
