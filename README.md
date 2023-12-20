@@ -20,7 +20,7 @@ DMBS: `PostgreSQL`
 
 User: `kujyshbv`
 
-Connection string: `postgres://kujyshbv:sIM0DO3AXoak5VnzZoqe7W4uF64Ukx1m@cornelius.db.elephantsql.com/kujyshbv`
+Connection string: `'postgresql://kujyshbv:sIM0DO3AXoak5VnzZoqe7W4uF64Ukx1m@cornelius.db.elephantsql.com/kujyshbv'`
 
 
 
